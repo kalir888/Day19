@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e69e95c5-2be2-4484-a82d-f069aad2a421" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day19Assignment/javapractice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day19Assignment/javapractice/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javapractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javapractice/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +79,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -107,5 +109,16 @@
       <updated>1650241959577</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

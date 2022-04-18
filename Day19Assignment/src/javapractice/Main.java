@@ -11,9 +11,14 @@ public class Main {
         System.out.println("Welcome to User Registration");
         System.out.println("Enter Your First Name: ");
         String firstName = get.nextLine();
-        Pattern pattern = Pattern.compile("^([A-Z]{1})([a-z]{2})([a-z]*)$");
-        Matcher matchName1 = pattern.matcher(firstName);
+        System.out.println("Enter your Second Name: ");
+        String secondName = get.nextLine();
+        Pattern name = Pattern.compile("^([A-Z])([a-z]{2})([a-z]*)$");
+        Matcher matchName1 = name.matcher(firstName);
+        Matcher matchName2 = name.matcher(secondName);
         if(!matchName1.find())
             System.out.println("Invalid First Name");
+        if(!matchName2.find())
+            System.out.println("Invalid Second Name");
     }
 }
